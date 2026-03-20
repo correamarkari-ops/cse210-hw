@@ -16,6 +16,7 @@ public class Journal
     Console.WriteLine(randomPrompt);
     Console.Write("> ");
     string texEntry = Console.ReadLine();
+    
 
     // time
     DateTime theCurrentTime = DateTime.Now;
