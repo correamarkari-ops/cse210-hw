@@ -10,8 +10,7 @@ public class Comment
      public Comment(string author, string text)
     {
         _text = text;
-        _author = author;
-    
+        _author = author;    
     }
 
      public void DiGetDisplayText()
